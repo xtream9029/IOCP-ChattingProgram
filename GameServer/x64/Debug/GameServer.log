@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  GameServer.cpp
+  GameSession.cpp
+  GameSessionManager.cpp
+  ServerPacketHandler.cpp
+D:\c++ServerPratice\SERVER\GameServer\ServerPacketHandler.cpp(63,58): warning C4267: '인수': 'size_t'에서 'uint32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  GameServer.vcxproj -> D:\c++ServerPratice\SERVER\Binary\Debug\GameServer.exe

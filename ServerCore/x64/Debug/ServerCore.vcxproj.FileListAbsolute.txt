@@ -1,0 +1,2 @@
+D:\c++ServerPratice\SERVER\Libraries\Debug\ServerCore.pdb
+D:\c++ServerPratice\SERVER\ServerCore\x64\Debug\ServerCore.pdb
